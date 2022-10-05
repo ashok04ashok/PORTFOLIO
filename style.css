@@ -550,7 +550,7 @@ body {
 
     .land-div {
         margin: -10px;
-        position: fixed;
+        position: relative;
         height: 100rem;
         width: 100rem;
         background-color: rgb(5, 0, 0);
