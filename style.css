@@ -951,7 +951,7 @@
     .home-aboutme p:nth-child(1) {
         font-size: 30px;
         font-family: 'Robot World', sans-serif;
-        color: rgb(7, 7, 7);
+        color: white;
         text-shadow: 2px 2px 30px rgb(0, 255, 68);
     }
 
@@ -1017,7 +1017,7 @@
 
 .home-qualification p:nth-child(1) {
     font-size: 100px;
-    color: rgb(48, 181, 234);
+    color: white;
     font-family: 'Robot World', sans-serif;
     text-shadow: 1px 1px 30px blue;
     transition-duration: 1s;
