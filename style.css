@@ -1,3 +1,11 @@
+/* @import url('http://fonts.cdnfonts.com/css/meltland');
+@import url('http://fonts.cdnfonts.com/css/hug-femmes');
+@import url('http://fonts.cdnfonts.com/css/tele-groteskult');
+@import url('http://fonts.cdnfonts.com/css/rapier-zero-hollow');
+@import url('http://fonts.cdnfonts.com/css/deconditioned-reflex');
+@import url('http://fonts.cdnfonts.com/css/robot-world');
+@import url('http://fonts.cdnfonts.com/css/gemerald');
+@import url('http://fonts.cdnfonts.com/css/hug-femmes'); */
 
 /* land page */
 
@@ -277,7 +285,7 @@ z-index: 0;
 
 /* profile */
 
-@import url('http://fonts.cdnfonts.com/css/meltland');
+
 .home-about {
     margin-top: 160px;
     margin-left: 30px;
@@ -652,8 +660,7 @@ z-index: 0;
 
 /*  about*/
 
-@import url('http://fonts.cdnfonts.com/css/hug-femmes');
-@import url('http://fonts.cdnfonts.com/css/tele-groteskult');
+
 
 .home-aboutme {
     margin: 15% 0px 0px 10px;
@@ -748,7 +755,7 @@ z-index: 0;
 
 
 /*  Qualification*/
-@import url('http://fonts.cdnfonts.com/css/rapier-zero-hollow');
+
 
 .home-qualification {
     margin: 10% 0px 0px 10px;
@@ -926,7 +933,7 @@ z-index: 0;
 
 
 /*Skills  */
-@import url('http://fonts.cdnfonts.com/css/deconditioned-reflex');
+
 
 .home-Skill {
     position: relative;
@@ -1229,8 +1236,7 @@ z-index: 0;
 
 
 /*projects  */
-@import url('http://fonts.cdnfonts.com/css/robot-world');
-@import url('http://fonts.cdnfonts.com/css/gemerald');
+
 
 .home-project {
     margin: 10% 0px 0px 10px;
@@ -1411,7 +1417,7 @@ z-index: 0;
 
 
 /* contact */
-@import url('http://fonts.cdnfonts.com/css/hug-femmes');
+
 
 .home-contact {
     margin: 10% 0px 0px 10px;
