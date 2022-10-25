@@ -83,9 +83,9 @@
 .land-name2 {
     z-index: 1;
     position: fixed;
-    margin: 80px 0px 0px -2%;
+    margin: 80px 0px 0px -4%;
     font-family: 'Deconditioned Reflex', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     width: 1000px;
     color: rgb(255, 255, 255);
     text-shadow: 1px 0px 100px rgb(81, 254, 107);
@@ -100,9 +100,9 @@
 
 .land-name3 {
     position: absolute !important;
-    margin: 350px 0px 0px -60% !important;
+    margin: 350px 0px 0px -80% !important;
     width: 100px !important;
-    font-size: 15px !important;
+    font-size: 10px !important;
     z-index: 1 !important;
 }
 
